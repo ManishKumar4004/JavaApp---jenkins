@@ -7,6 +7,6 @@
 <title>About page</title>
 </head>
 <body>
-   <p>This is about page</p>
+   <p>This is about page for Webapp</p>
 </body>
 </html>
