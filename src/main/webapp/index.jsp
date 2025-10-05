@@ -4,7 +4,7 @@
 <p>In this app we are going to desplay things manually</p>
 <p>Build success</p>
 <a href = "about.jsp">About page</a>
-<a href = "service.jsp">About page</a>
+<a href = "service.jsp">service page</a>
 <p>This is jenkins project</p>
 </body>
 </html>
